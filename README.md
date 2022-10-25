@@ -1,4 +1,5 @@
-hackage-db
+hackage-db 
+>- new repo now maintained at NixOS/cabal2nix
 ==========
 
 [![hackage release](https://img.shields.io/hackage/v/hackage-db.svg?label=hackage)](http://hackage.haskell.org/package/hackage-db)
